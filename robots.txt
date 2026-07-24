@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://restorationhoover.com/sitemap.xml
